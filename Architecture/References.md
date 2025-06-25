@@ -1,0 +1,1 @@
+- [Refactoring Guru](https://refactoring.guru/): refactoring, design patterns, SOLID principles.

@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71f3fea8aacb7dc3",
+        "id": "ed74e4c2fc8f880d",
         "type": "tabs",
         "children": [
           {
-            "id": "64ecfc9116ba3440",
+            "id": "6a8d4e5fcdb00878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
-                "mode": "source",
+                "file": "Architecture/References.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "456b134a43d0f7fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4bdb0a115db56ea5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "References"
             }
           }
         ]
@@ -184,8 +168,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "64ecfc9116ba3440",
+  "active": "6a8d4e5fcdb00878",
   "lastOpenFiles": [
-    "Notes.md"
+    "Architecture/Clean code/SOLID.md",
+    "Architecture/References.md",
+    "Architecture/Clean code/YAGNI.md",
+    "Architecture/Clean code/DRY.md",
+    "Notes.md",
+    "Architecture/Clean code",
+    "Architecture"
   ]
 }

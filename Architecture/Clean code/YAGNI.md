@@ -1,0 +1,3 @@
+- You aren't gonna need it is a principle that states a programmer should not add functionality until deemed necessary.
+- Always implement things when you actually need them, never when you just foresee that you will need them.
+- Book: Extreme Programming
