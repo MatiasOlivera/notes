@@ -1,0 +1,1 @@
+Hi, these are my notes on learning in public.
