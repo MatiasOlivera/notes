@@ -1,0 +1,6 @@
+Autoritario
+Timonel
+Afiliativo
+Democrático
+Coaching
+VIsionario
