@@ -1,4 +1,4 @@
-- Vengan sabiendo de que se trata el rol, la empresa y la entrevista.
+- Vengan sabiendo de qué se trata el rol, la empresa y la entrevista.
 - Darle material de venta al recruiter
   - No hablar solo del tech stack, sino también de tu impacto en proyectos
 - Transparencia
@@ -7,7 +7,7 @@
   - Comparti tus preferencias y motivaciones
     - Nos vamos a enfocar en traerte la información mas relevante para que tomes una decisión
 - Preguntas duras (y buenas!) para el recruiter
-  - Cuantos candidatos hay en el proceso?
-  - Como te comparas con los otros candidatos?
-  - Cual es mi scoring/evaluación? Donde estoy bien y donde estoy mal?
-  - Qué tengo que hacer para que me vaya bien en las entrevistas? Que me falta
+  - ¿Cuántos candidatos hay en el proceso?
+  - ¿Cómo te comparas con los otros candidatos?
+  - ¿Cuál es mi scoring/evaluación? ¿Dónde estoy bien y dónde estoy mal?
+  - ¿Qué tengo que hacer para que me vaya bien en las entrevistas? Que me falta

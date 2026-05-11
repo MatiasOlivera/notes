@@ -17,25 +17,37 @@
 ### **Chequeá la empresa y la posición**
 
 - Una screening call no es un pitch de venta a vos, es tu pitch de venta a la empresa. Tenés que estar bien informado de sus necesidades, y no hacer preguntas que puedas responder vos mismo buscando información en Google.
+
 - Producto:
+  
   - Si aplica, probá el producto: instalalo, compralo, usalo.
   - Evaluá los desafíos técnicos y de producto que tienen. Qué funciona, qué no funciona.
   - ¿Tiene competidores? ¿El producto está liderando en su categoría?
   - ¿Cuántos usuarios tiene? ¿Cuánto revenue está generando? (si no encontrás este dato intentá estimarlo)
+
 - Empresa
+  
   - ¿Cuál es el revenue actual de la empresa?
   - ¿Cuántos ingenieros tiene?
   - ¿En qué Serie está? ¿Quiénes son sus inversores?
   - ¿Cuáles son los valores de la empresa?
+
 - Entrevistador
+  
   - ¿Quién te va a entrevistar? Chequeá su perfil de Linkedin.
+  
   - ¿Es una persona técnica, o un hiring manager? ¿Cuál es su experiencia profesional?
+  
   - ¿Qué hacen y qué piensan que tiene el candidato perfecto?
     
     ### Revisar
+
 - Crunchbase
+
 - Levels2FC
+
 - TeamBlind, Glassdoor: comentarios de empleados
+
 - Press Release de la empresa
 
 ### Consiguiendo entrevistas

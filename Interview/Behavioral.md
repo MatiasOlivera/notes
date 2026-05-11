@@ -3,13 +3,18 @@
 Personal
 
 - Cual es tu talento?
+
 - Cual es tu motivación?
   Recruiter
+
 - Cual es el problema que están necesitan resolver?
   
   ### Indicadores de talento
+
 - Confianza
+
 - Mentalidad, resiliencia
+
 - Puede manipular el mundo alrededor del mismo?
   
   ## **Preguntas Culturales**[](https://docs.silver.dev/interview-ready/soft-fundamentals/pasando-entrevistas/behavioral-preguntas-clasicas#preguntas-culturales)
