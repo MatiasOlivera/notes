@@ -1,0 +1,13 @@
+- Vengan sabiendo de qué se trata el rol, la empresa y la entrevista.
+- Darle material de venta al recruiter
+  - No hablar solo del tech stack, sino también de tu impacto en proyectos
+- Transparencia
+  - Hablá de plata
+    - Al principio de un proceso, hablar de rangos para ver que hay posibilidad de match
+  - Comparti tus preferencias y motivaciones
+    - Nos vamos a enfocar en traerte la información mas relevante para que tomes una decisión
+- Preguntas duras (y buenas!) para el recruiter
+  - ¿Cuántos candidatos hay en el proceso?
+  - ¿Cómo te comparas con los otros candidatos?
+  - ¿Cuál es mi scoring/evaluación? ¿Dónde estoy bien y dónde estoy mal?
+  - ¿Qué tengo que hacer para que me vaya bien en las entrevistas? Que me falta
