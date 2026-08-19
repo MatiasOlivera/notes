@@ -16,7 +16,7 @@
 
 - Mouse: Logitech MX Master 3 (work), Logitech G Pro X Superlight (gaming)
 - Keyboard: HyperX Alloy Origins 60
-- Monitors: Gigabyte M27QX (main), LG 27UL500-W (secondary), Gygabyte M27Q (sim racing)
+- Monitors: Gigabyte M27QX (main), LG 27UL500-W (secondary), Gigabyte M27Q (sim racing)
 - Speakers: Edifier S2000MKIII
 - Headphones: Sony WH-1000XM3, Sony Linkbuds S
 - DAC: Fiio K3
