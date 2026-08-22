@@ -5,9 +5,9 @@
 4. Voice: -18lufs. Videogame -10lufs diff
 5. Adjust pan to see the action ALL THE TIME
 6. Add @matiasox and video title
-7. **Subtitles**: Linea de tiempo > Herramientas IA > Crear subtitulos. 
+7. Use solo in voice track and **Subtitles**: Linea de tiempo > Herramientas IA > Crear subtitulos. 
 8. Analyze audio levels: Timeline > Bounce mix to track > New track
-9. **Esport for Shorts:** Youtube 1080, type nvidia, audio optimize to standard
+9. **Export for Shorts:** Youtube 1080, type nvidia, audio optimize to standard
 10. ~~Add **transition between videos**~~
 11. ~~Add **fade-out** at the end (30 sec)~~
 12. ~~Add **transitions between audios** -> Shift + T~~
