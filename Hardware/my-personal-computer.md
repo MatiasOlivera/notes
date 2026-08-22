@@ -20,5 +20,5 @@
 - Speakers: Edifier S2000MKIII
 - Headphones: Sony WH-1000XM3, Sony Linkbuds S
 - DAC: Fiio K3
-- Microphone: Blue Yeti
+- Microphone: Blue Yeti (Yeticaster with shock mount and boom arm)
 - Webcams: Logitech Brio (main), Logitech C922 (sim racing)
